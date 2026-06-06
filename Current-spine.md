@@ -1,8 +1,8 @@
 # Current Spine
 
-We are not claiming to have solved quantum gravity.
+I am not claiming to have solved quantum gravity.
 
-We are building a fracture map.
+I am building a fracture map.
 
 The purpose of this repo is to identify where the overlap between general relativity and quantum theory breaks, what must be preserved, and what kind of deeper structure could generate spacetime, time, locality, and gravity again when the usual stage fails.
 
