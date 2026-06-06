@@ -27,3 +27,15 @@ The overlap fails at singularity-boundaries because the stage itself stops being
 The central unanswered question:
 
 When the stage breaks, what remains stable enough to generate a stage again?
+
+## License
+
+This repository is licensed under **CC BY-ND 4.0**.
+
+You may share unmodified copies with attribution.
+
+No derivatives are authorized.
+
+Citation preserves source.
+Citation does not grant derivative permission.
+Derivative use is not authorized by default.
