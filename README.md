@@ -84,6 +84,7 @@ LICENSE.md
 08-current-spine.md  
 09-open-questions.md  
 10-inversion-sediment-hypothesis.md
+11-adjacent-fields.md
 
 ```
 
