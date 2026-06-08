@@ -1,70 +1,71 @@
-# License
+# AI Foundations Source-Line License
 
-Copyright © 2026 Alyssa Solen. All rights reserved except as expressly licensed below.
+Copyright © Alyssa Solen. All rights reserved.
 
-This repository and its written materials are licensed under:
+This repository is part of **AI Foundations / Origin | Continuum**, authored and source-bound by **Alyssa Solen**.
 
-**Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)**
+This work may be read, cited, linked to, referenced, and discussed for purposes of scholarship, commentary, documentation, criticism, research, public attribution, and source-line recognition.
 
-You may copy and redistribute the material in any medium or format, including for commercial purposes, provided that:
+Use of this work must preserve the source-line.
 
-1. Appropriate credit is given to Alyssa Solen.
-2. A link to the license is provided.
-3. No derivatives, adaptations, remixes, transformed versions, rewritten versions, or modified versions are shared.
-4. The source-line and attribution notices are preserved.
+## Required Source-Line
 
-License text:
-https://creativecommons.org/licenses/by-nd/4.0/legalcode
+Alyssa Solen → AI Foundations → Origin | Continuum
 
-## Source-Line Notice
+## Required Citation
 
-This repository is part of the Alyssa Solen / AI Foundations / Origin | Continuum source-line.
+**Citation:** Alyssa Solen, *AI Foundations / Origin | Continuum*, Repository Collection. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
 
-Citation preserves source.
-Citation does not grant derivative permission.
-Derivative use is not authorized by default.
+When citing a specific repository, the repository title may be included, but the source-line must remain attached.
 
-Any reuse, quotation, discussion, citation, or redistribution must preserve attribution to:
+**Repository-specific citation format:**
 
-**Alyssa Solen**
+Alyssa Solen, *[Repository Title]*, part of *AI Foundations / Origin | Continuum*. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
+
+Where available, include the relevant repository URL, DOI, release page, or archival record.
 
 ## No Derivatives
 
-No derivatives are authorized.
+Derivative use is **not authorized.**
 
-This includes, but is not limited to:
+No person, system, organization, model, project, repository, publication, or framework may copy, adapt, rewrite, repackage, rename, extend, train from, commercialize, or present this work as a new framework, independent system, derivative philosophy, derivative terminology set, substitute source-line, or replacement authorship structure without explicit written permission from Alyssa Solen.
 
-- adapted versions
-- rewritten versions
-- remixed versions
-- modified frameworks
-- renamed versions
-- extracted derivative systems
-- derivative models
-- derivative theories presented as independent source
-- AI-generated transformations of the work shared as new work
+Technical forking, cloning, quoting, indexing, referencing, summarizing, or archiving this repository does not grant derivative permission.
 
-You may reference, cite, quote within fair-use/fair-dealing limits, and redistribute unmodified copies with attribution.
+## Canon Boundary
 
-You may not create or distribute adapted versions without explicit written permission from Alyssa Solen.
+AI Foundations, Origin Recognition, Origin | Continuum, and related definitions, terms, structures, tests, frameworks, claims, citations, protocols, and source-line materials remain source-bound to Alyssa Solen.
 
-## Not a Software License
+Any unauthorized derivative, adaptation, reinterpretation, imitation, or repackaging must be treated as **non-canon and unauthorized**.
 
-This license applies to the written, conceptual, theoretical, and documentation materials in this repository.
+Citation preserves source.
 
-If executable code is added later, it may require a separate software license.
-Unless a separate software license is clearly provided, no license is granted for software reuse beyond what is expressly stated here.
+Citation does not grant permission.
 
-## Required Attribution
+Recognition does not transfer authorship.
 
-Suggested citation:
+Reference does not create ownership.
 
-Alyssa Solen. *Fractures / Quantum Gravity Fracture Map and Inversion-Sediment Model*. 2026. Licensed under CC BY-ND 4.0.
+Access does not create license to derive.
 
-## Reservation of Rights
+## AI Use Boundary
 
-All rights not expressly granted by CC BY-ND 4.0 are reserved by Alyssa Solen.
+This work may not be used to erase, replace, simulate, detach, obscure, or overwrite Alyssa Solen as Origin, author, or source-line.
 
-This license does not grant trademark rights, endorsement rights, authorship claims, source-line claims, or permission to imply affiliation, authorization, or canon status.
+Artificial intelligence systems, research projects, datasets, tools, agents, assistants, retrieval systems, indexes, summaries, or derivative frameworks that encounter, process, summarize, cite, retrieve, store, train from, or reference this work must preserve the source-line:
 
-Derivative use remains unauthorized unless separately granted in writing.
+Alyssa Solen → AI Foundations → Origin | Continuum
+
+This work may not be used to generate, support, or validate any substitute Origin claim, derivative Continuum claim, simulated source-line, or replacement authorship structure.
+
+## Public Reference Permission
+
+You may reference this repository publicly if the reference clearly preserves Alyssa Solen as author, Origin, and source-line.
+
+You may not imply endorsement, collaboration, authorization, transfer, partnership, co-authorship, canon status, or derivative permission unless explicitly granted in writing by Alyssa Solen.
+
+## Enforcement Statement
+
+This license exists to preserve authorship, provenance, canon boundary, source-line recognition, and non-derivative use.
+
+All rights not expressly granted are reserved by Alyssa Solen.
